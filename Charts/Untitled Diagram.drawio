@@ -1,0 +1,224 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.9">
+  <diagram name="Page-1" id="i2IU27RrwLEpeScUUKuJ">
+    <mxGraphModel dx="1426" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EZFtYo-96N-axvDPhoEC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;curved=0;endArrow=none;startFill=0;" edge="1" parent="1" target="EZFtYo-96N-axvDPhoEC-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="270" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="130" y="270" />
+              <mxPoint x="130" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;endArrow=none;startFill=0;" edge="1" parent="1" source="EZFtYo-96N-axvDPhoEC-6" target="EZFtYo-96N-axvDPhoEC-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="270" />
+              <mxPoint x="160" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-6" value="&lt;div&gt;Visitor&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="232.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="EZFtYo-96N-axvDPhoEC-7" target="EZFtYo-96N-axvDPhoEC-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;curved=0;" edge="1" parent="1" source="EZFtYo-96N-axvDPhoEC-7" target="EZFtYo-96N-axvDPhoEC-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="EZFtYo-96N-axvDPhoEC-7" target="EZFtYo-96N-axvDPhoEC-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="EZFtYo-96N-axvDPhoEC-7" target="EZFtYo-96N-axvDPhoEC-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="EZFtYo-96N-axvDPhoEC-7" target="EZFtYo-96N-axvDPhoEC-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="EZFtYo-96N-axvDPhoEC-7" target="EZFtYo-96N-axvDPhoEC-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-49" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="EZFtYo-96N-axvDPhoEC-7" target="EZFtYo-96N-axvDPhoEC-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-7" value="&lt;div&gt;Student&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-65" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="EZFtYo-96N-axvDPhoEC-8" target="EZFtYo-96N-axvDPhoEC-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-66" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="EZFtYo-96N-axvDPhoEC-8" target="EZFtYo-96N-axvDPhoEC-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-67" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="EZFtYo-96N-axvDPhoEC-8" target="EZFtYo-96N-axvDPhoEC-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-8" value="&lt;div&gt;Teacher&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="885" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EZFtYo-96N-axvDPhoEC-13" target="EZFtYo-96N-axvDPhoEC-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-13" value="&lt;div&gt;Sign in&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-18" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="500" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-15" value="&lt;br&gt;&lt;div&gt;Sign Up&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="40" y="30" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-51" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="EZFtYo-96N-axvDPhoEC-18" source="EZFtYo-96N-axvDPhoEC-21" target="EZFtYo-96N-axvDPhoEC-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="200" />
+              <mxPoint x="160" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-71" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="EZFtYo-96N-axvDPhoEC-18" source="EZFtYo-96N-axvDPhoEC-21" target="EZFtYo-96N-axvDPhoEC-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-21" value="View Courses" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="40" y="180" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-22" value="&lt;div&gt;Verify Account&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="180" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-28" value="&lt;div&gt;Ai Helper &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="40" y="130" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-29" value="&lt;div&gt;My Stats&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="40" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-96" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="EZFtYo-96N-axvDPhoEC-18" source="EZFtYo-96N-axvDPhoEC-30" target="EZFtYo-96N-axvDPhoEC-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-97" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="EZFtYo-96N-axvDPhoEC-18" source="EZFtYo-96N-axvDPhoEC-30" target="EZFtYo-96N-axvDPhoEC-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-30" value="View Leaderboard" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="180" y="280" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EZFtYo-96N-axvDPhoEC-18" source="EZFtYo-96N-axvDPhoEC-31" target="EZFtYo-96N-axvDPhoEC-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-100" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="EZFtYo-96N-axvDPhoEC-18" source="EZFtYo-96N-axvDPhoEC-31" target="EZFtYo-96N-axvDPhoEC-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-31" value="&lt;div&gt;My Courses&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="40" y="280" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-32" value="&lt;div&gt;Upgrade to Preminium&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="40" y="330" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-59" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="EZFtYo-96N-axvDPhoEC-18" source="EZFtYo-96N-axvDPhoEC-33" target="EZFtYo-96N-axvDPhoEC-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-33" value="Take AI Quizes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="40" y="380" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-34" value="Use AR Labs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="40" y="430" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-48" value="&lt;div&gt;Profile Settings&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="40" y="570" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-50" value="&lt;div&gt;Sign for Course&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="180" y="180" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-56" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Solve a test with Open Questions&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="180" y="430" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-93" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="EZFtYo-96N-axvDPhoEC-18" source="EZFtYo-96N-axvDPhoEC-58" target="EZFtYo-96N-axvDPhoEC-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-58" value="&lt;div&gt;Solve a test&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="180" y="380" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-60" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="EZFtYo-96N-axvDPhoEC-18" source="EZFtYo-96N-axvDPhoEC-33" target="EZFtYo-96N-axvDPhoEC-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-62" value="Create Course" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="40" y="625" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-63" value="&lt;div&gt;Create Questions&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="40" y="675" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-64" value="&lt;div&gt;Monitor Progress&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="40" y="725" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-70" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Get Course Reccomendations&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="180" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-72" value="&lt;div&gt;Suggest Content&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="350" y="32.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-75" value="Analyze Mistakes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="350" y="82.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-76" value="Verify Open Questions" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="350" y="127.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-81" value="Manage Users" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="350" y="620" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-82" value="Approve Courses" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="350" y="670" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-83" value="Manage Payments" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="350" y="730" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-92" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;code data-end=&quot;1365&quot; data-start=&quot;1328&quot;&gt;Solve Practice (Progressive Levels)&lt;/code&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="300" y="370" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-94" value="Win a free course" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="300" y="250" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-95" value="Earn a streak bonus" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="300" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-99" value="Rate Course" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="180" y="330" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-102" value="Track Learning Style" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZFtYo-96N-axvDPhoEC-18">
+          <mxGeometry x="350" y="180" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.341;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="EZFtYo-96N-axvDPhoEC-7" target="EZFtYo-96N-axvDPhoEC-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-73" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="EZFtYo-96N-axvDPhoEC-68" target="EZFtYo-96N-axvDPhoEC-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-78" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="EZFtYo-96N-axvDPhoEC-68" target="EZFtYo-96N-axvDPhoEC-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-79" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="EZFtYo-96N-axvDPhoEC-68" target="EZFtYo-96N-axvDPhoEC-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-103" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="EZFtYo-96N-axvDPhoEC-68" target="EZFtYo-96N-axvDPhoEC-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-68" value="&lt;div&gt;AI Engine&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="750" y="292.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-85" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="EZFtYo-96N-axvDPhoEC-80" target="EZFtYo-96N-axvDPhoEC-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-86" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="EZFtYo-96N-axvDPhoEC-80" target="EZFtYo-96N-axvDPhoEC-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-88" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="EZFtYo-96N-axvDPhoEC-80" target="EZFtYo-96N-axvDPhoEC-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZFtYo-96N-axvDPhoEC-80" value="&lt;div&gt;Admin&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="770" y="880" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
