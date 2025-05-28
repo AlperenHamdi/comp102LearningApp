@@ -1,0 +1,29 @@
+AR Mobil:
+    Android: ARCore
+    Ios: ARKit
+
+AR kısımlarının lab gibi olması gerektiğini düşünüyoruz. Mesela Teleskop ile yıldızları gezegenleri izlemek,Var olan hayvanları anatomilerini inceleyebilmek için yansıtmak, Mimari modeller yansıtmak vb. tarzı şeyler için
+
+
+
+API Gateaway:
+    JWT $ OAuth gibi
+    "API Gateway
+
+    Uygulama istemcileri (mobil/web) ile backend servisler ara,sında köprü görevi görür.
+
+    JWT kontrolü, yetkilendirme, yönlendirme, loglama ve API versiyonlama işlevleri vardır.
+
+    API Gateway olmadan istemciler doğrudan mikroservislere erişemez.""
+
+
+
+
+Data Layer:PostgreSQL,MongoDB,TypeORM / Sequelize (JavaScript/TypeScript)
+Kullanıcı (User)	users tablosu
+Kurs (Course)	courses
+Pratikler	exercises
+Abonelik	subscriptions
+Öneriler	recommendations
+Sıralama	leaderboards
+AI Üretilen Sorular	ai_generated_questions
